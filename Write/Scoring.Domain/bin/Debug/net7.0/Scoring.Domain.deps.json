@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Scoring.Domain/1.0.0": {
+        "dependencies": {
+          "Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "Scoring.Domain.dll": {}
+        }
+      },
+      "Framework.Core/1.0.0": {
+        "runtime": {
+          "Framework.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scoring.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
